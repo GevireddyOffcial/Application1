@@ -1,4 +1,4 @@
 #/bahhs
 ls  jscddcwn
-pwd
+pwd djf
 sc
